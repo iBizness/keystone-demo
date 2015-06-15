@@ -1,4 +1,4 @@
-image: JedWatson/keystone-demo
+image: bradrydzewski/node:0.10
 scripts:
   - npm install
   - npm test
