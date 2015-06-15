@@ -1,0 +1,4 @@
+image: iBizness/keystone-demo
+scripts:
+  - npm install
+  - npm test
